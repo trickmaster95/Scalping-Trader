@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalperPlus", "ScalperPlus.csproj", "{190B0075-2E5A-4CC6-A412-50D26D7D51F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190B0075-2E5A-4CC6-A412-50D26D7D51F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190B0075-2E5A-4CC6-A412-50D26D7D51F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190B0075-2E5A-4CC6-A412-50D26D7D51F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190B0075-2E5A-4CC6-A412-50D26D7D51F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6BA6D3-D0DF-4CF4-A03B-834445118A68}
+	EndGlobalSection
+EndGlobal
